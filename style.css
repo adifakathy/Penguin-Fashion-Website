@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+}
+header{
+    background: #FFF9F4;
+    height: 700px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.nike-bg-color{
+    background: #FFF9F4;
+}
+.nav ul li a{
+    color: black;
+}
+.nike-btn{
+
+    background: #3D4FF3;
+    color: white;
+    text-decoration: none;
+    border: 0;
+    padding: 0.45rem 0.75rem;
+    border-radius: 3px;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+}
+.nike-color{
+    color: #FA804C;
+    font-family: 'Roboto', sans-serif;
+}
+.text-color{
+    color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+.gray-scale{
+    filter: grayscale(100%);
+}
+.img-bg{
+   background-color:  #E5E5E5;
+   border-radius: 20px;
+   font-family: 'Roboto', sans-serif;
+}
+.card-size{
+    height: 550px !important;
+    width: 370px !important;
+    border-radius: 30px !important;
+}
+.shoe-text-color{
+    color: 
+    #363958 !important;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+}
